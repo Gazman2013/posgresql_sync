@@ -1,4 +1,4 @@
 # posgresql_sync
 
-10.128.0.16 master
-10.128.0.17 slave
+1. master 10.128.0.16 
+2. slave 10.128.0.17 
